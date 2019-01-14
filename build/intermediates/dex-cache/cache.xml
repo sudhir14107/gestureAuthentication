@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/pankaj/Documents/btp/android/gestureAuthentication/app/libs/libsvm_weka.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce4cc769dfecabc92913f36b3332e1a6b0534cb7">
+        <dex dex="/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/pre-dexed/debug/libsvm_weka_3ae9df7123f6224db7396abf1cdfe4b7586f8bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pankaj/Documents/btp/android/gestureAuthentication/app/libs/weka-3.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="441204404eb1bbe0ebfa111720341606f40f91f3">
+        <dex dex="/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/pre-dexed/debug/weka-3.7.3_ba12b8465a6547e837db48282e102bf695ec0de5.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <skip />
+    <string name="application_name">Lock</string>
+    <string name="label_create_gesture">Create Gesture</string>
+    <skip />
+    <string name="button_add">Add User</string>
+    <string name="button_calc">Calculate Gesture Values</string>
+    <string name="button_reload">Reload</string>
+    <string name="button_discard">Discard</string>
+    <string name="button_finish">Finish</string>
+    <skip />
+    <string name="prompt_gesture_name">Name</string>
+    <string name="error_missing_name">You must enter a name</string>
+    <string name="save_success">Gesture was successful</string>
+    <string name="rename_action">OK</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="gestures_loading">Loading users&#8230;</string>
+    <string name="gestures_empty">No users</string>
+    <string name="gestures_activity">Gestures</string>
+    <string name="gestures_rename">Rename</string>
+    <string name="gestures_delete">Delete</string>
+    <string name="gestures_delete_success">User was removed</string>
+    <string name="gestures_rename_title">Add New User</string>
+    <string name="gestures_rename_label">User Name</string>
+    <string name="gestures_error_loading">Could not load %s. Make sure you have storage available.</string>
+    <string name="button_save">Save</string>
+    <string name="invalid_gesture">Please redraw the Gesture. Try to match previous attempts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_user_options">user_options_activity</string>
+    <string name="retrain_user">Retrain User</string>
+    <string name="authenticate_user">Authenticate</string>
+    <string name="delete_user">Delete User</string>
+    <string name="user_options_dialog">Options</string>
+    <string name="user_name">user_name</string>
+    <string name="training_session_name">Training Session</string>
+    <string name="root_dir">gesture_users</string>
+    <string name="activity_type">activity_type</string>
+    <string name="train">train</string>
+    <string name="retrain">retrain</string>
+    <string name="authenticate">authenticate</string>
+    <string name="button_authenticate">Authenticate</string>
+    <string name="lock_apps">Lock Apps</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+
+</resources>

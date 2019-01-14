@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:3:1-39:12
+	package
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:4:5-45
+		INJECTED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:5:5-41
+		INJECTED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.WRITE_INTERNEL_STORAGE
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.READ_INTERNEL_STORAGE
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:9:22-77
+uses-sdk
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:11:5-13:40
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] /home/pankaj/.android/build-cache/4146a0de68d696e8a04c7325f6c067923289cbda/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/pankaj/.android/build-cache/92e18f8d7d659de453e1b375af03fda3c2922471/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/pankaj/.android/build-cache/550f2a2570a1430c2d52694fc7dc97dfffdcfbfd/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/pankaj/.android/build-cache/55993cac72dd08a45763a4d90ce75fa6dc3f3e44/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/pankaj/.android/build-cache/33ac4912c71885a31f48ff5e6d404246865514cb/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/pankaj/.android/build-cache/76c8bf7900d1c0878cd2d37f8d835578a3b8d6d3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/pankaj/.android/build-cache/0a24b4f4855ddc1f95bd4fa013796b5d5bbfa2c3/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] /home/pankaj/.android/build-cache/2f8f1e5caa3a5b01f25a278835ee96c2aeeba2a2/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:13:8-37
+		INJECTED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:12:9-35
+		INJECTED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:14:5-37:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/pankaj/.android/build-cache/4146a0de68d696e8a04c7325f6c067923289cbda/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/pankaj/.android/build-cache/92e18f8d7d659de453e1b375af03fda3c2922471/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/pankaj/.android/build-cache/550f2a2570a1430c2d52694fc7dc97dfffdcfbfd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/pankaj/.android/build-cache/55993cac72dd08a45763a4d90ce75fa6dc3f3e44/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/pankaj/.android/build-cache/33ac4912c71885a31f48ff5e6d404246865514cb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/pankaj/.android/build-cache/76c8bf7900d1c0878cd2d37f8d835578a3b8d6d3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/pankaj/.android/build-cache/0a24b4f4855ddc1f95bd4fa013796b5d5bbfa2c3/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/pankaj/.android/build-cache/2f8f1e5caa3a5b01f25a278835ee96c2aeeba2a2/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:14:18-43
+activity#com.example.pankaj.lock.GestureBuilderActivity
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:18:13-53
+	android:icon
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:16:13-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:19:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:22:27-74
+category#android.intent.category.DEFAULT
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:23:27-73
+activity#com.example.pankaj.lock.CreateActivity
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:26:9-28:60
+	android:label
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:28:13-57
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:27:13-66
+activity#com.example.pankaj.lock.UserOptionsActivity
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:29:9-35:20
+	android:label
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:31:13-64
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:30:13-71
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:32:13-34:82
+	android:value
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:34:17-79
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:33:17-63
+activity#com.example.pankaj.lock.LockActivity
+ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:36:9-82
+	android:name
+		ADDED from /home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/AndroidManifest.xml:36:19-70

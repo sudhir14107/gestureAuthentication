@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

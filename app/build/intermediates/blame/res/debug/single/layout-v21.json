@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

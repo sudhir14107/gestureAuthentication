@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libsvm_weka">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/libsvm_weka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

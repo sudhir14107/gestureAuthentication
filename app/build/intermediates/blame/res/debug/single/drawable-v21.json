@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/pankaj/.android/build-cache/35484eb371006684f92f2669c960ebb210e2f8b1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
